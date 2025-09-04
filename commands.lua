@@ -131,12 +131,12 @@ local crowdControlledSpellIds = {
 	[1090] = { name = L["sleep"], rank = 2, duration = 30 },
 	[2937] = { name = L["sleep"], rank = 3, duration = 40 },
 
-	[339] = { name = L["entangling roots"], rank = 1, duration = 12 },
-	[1062] = { name = L["entangling roots"], rank = 2, duration = 15 },
-	[5195] = { name = L["entangling roots"], rank = 3, duration = 18 },
-	[5196] = { name = L["entangling roots"], rank = 4, duration = 21 },
-	[9852] = { name = L["entangling roots"], rank = 5, duration = 24 },
-	[9853] = { name = L["entangling roots"], rank = 6, duration = 27 },
+	--[339] = { name = L["entangling roots"], rank = 1, duration = 12 },
+	--[1062] = { name = L["entangling roots"], rank = 2, duration = 15 },
+	--[5195] = { name = L["entangling roots"], rank = 3, duration = 18 },
+	--[5196] = { name = L["entangling roots"], rank = 4, duration = 21 },
+	--[9852] = { name = L["entangling roots"], rank = 5, duration = 24 },
+	--[9853] = { name = L["entangling roots"], rank = 6, duration = 27 },
 
 	[2637] = { name = L["hibernate"], rank = 1, duration = 20 },
 	[18657] = { name = L["hibernate"], rank = 2, duration = 30 },
